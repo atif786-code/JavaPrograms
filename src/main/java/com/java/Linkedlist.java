@@ -9,7 +9,9 @@ public class Linkedlist {
 		lk.add("One");
 		lk.add("Two");
 		lk.add("three");
+		lk.add("five");
 		System.out.println(lk);
+		
 		
 	}
 
